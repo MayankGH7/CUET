@@ -1,4 +1,4 @@
-# CUET (UG) - 2023 Portal
+# CUET (UG) - 2023 Portal (clone)
 
 CUET (UG) - 2023 Portal is a web page designed for Common University Entrance Test (CUET) applicants. This HTML web page provides information and quick links for CUET (UG) - 2023 applicants.
 
